@@ -1,19 +1,17 @@
 # Switch-Emulators-Guide
-A guide to get Yuzu or Ryujinx running on your PC. Download links included.
+A guide to get Switch emulators running on many platforms.
 
-**Note:** The downloads are given in the guides wherever necessary, but if you just want to get the downloads, you can get them by clicking below. Includes games, keys, firmware, shaders, etc.
-
-[Download Links](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md)
-
-## Guides
-
+# Guides
+## PC
 [Ryujinx Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md) **(Shut down on October 1, 2024)**
 
 [Yuzu Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md) **(Shut down on March 5, 2024)**
 
-**Note:** If you need help with something you don't understand, or your issue is not listed, please join our discord server and ask for help. It will be much easier to assist you there.
+## iOS
 
-### ~~Due to a DMCA notice by nintendo, copyrighted files such as keys and games are currently unavailable.~~
+## Android
+
+**Note:** If you need help with something you don't understand, or your issue is not listed, please join our discord server and ask for help. It will be much easier to assist you there.
 
 ## Discord, Subreddit, and Megathread links:
 
